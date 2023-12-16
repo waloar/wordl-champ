@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [{
+            "name": "Python: Telegram Extractor",
+            "type": "python",
+            "request": "launch",
+            "program": "history-process.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Solution",
+            "type": "python",
+            "request": "launch",
+            "program": "application.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Outpu",
+            "type": "python",
+            "request": "launch",
+            "program": "results_correct_output.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
